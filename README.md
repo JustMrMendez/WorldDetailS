@@ -1,7 +1,8 @@
-# Strategic Growth Plan for World Detail Specialist
-
+<h1 align="center"> Strategic Growth Plan for World Detail Specialist</h1>
+<p align="center">
 <img src="./assets/draft-logo.png" alt="World Detail Specialist Draft Logo" width="300" style="margin:auto; display:block;"/>
-<br />
+</p>
+<br/>
 <img src="./assets/header.png" alt="A professional header image for a house remodeling company. The image smoothly transitions from a small home renovation on the left, with workers updating the exterior and interior, to larger residential remodels in the center, and finally to upscale modern homes on the right. The scene includes realistic construction details such as scaffolding, fresh paint, new roofing, and landscaped yards. The atmosphere is bright and inviting, symbolizing transformation and growth. The overall look is clean, modern, and professional, realistic construction and phisycs." width="100%"/>
 
 ## Executive Summary
